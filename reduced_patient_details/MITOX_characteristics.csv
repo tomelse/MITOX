@@ -1,0 +1,17 @@
+ID,Age,Sex,Het,MuscleWeakness,BMI
+MITOX_01,40-59,Female,,Yes,18.5-24
+MITOX_02,20-39,Male,34.0,No,18.5-24
+MITOX_04,20-39,Female,30.0,No,18.5-24
+MITOX_05,20-39,Female,,Yes,18.5-24
+MITOX_09,40-59,Female,,No,0-17.5
+MITOX_10,40-59,Female,,No,30-34
+MITOX_11,40-59,Female,13.0,No,25-29
+MITOX_12,40-59,Male,6.0,No,25-29
+MITOX_13,40-59,Male,,No,35-39
+MITOX_14,20-39,Male,28.0,Yes,25-29
+MITOX_15,40-59,Female,,No,25-29
+MITOX_18,40-59,Male,,No,18.5-24
+MITOX_19,20-39,Male,39.0,No,25-29
+MITOX_W3,20-39,Male,58.0,No,18.5-24
+Study_39,40-59,Female,10.0,No,
+Study_40,60-79,Female,6.0,No,
